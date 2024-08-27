@@ -1,7 +1,3 @@
-<p align="center">
-   ![imagealt](https://github.com/GabbyGeek/encriptador/blob/a50c6e30aa3549d84f94ccab65761bb667f990c3/Purple%20Pink%20Black%20Fingerprint%20Padlock%20Cyber%20Security%20Logo.png)
-</p>
-
 <h1 style="color:darkblue;">Encriptador De Texto</h1>
 <p>
 Este proyecto es parte del Challenge de Alura-Oracle, y consiste en un encriptador de texto. 
